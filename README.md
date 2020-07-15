@@ -1,5 +1,5 @@
-# Aayush Bokrar - @AbstractGhoul05
-Hi, I'm Aayush - just another student learning to code. Loves working and contributing open source. Has experience with Flutter, Kotlin, Python, C++. Currently learning Competitive Coding. I live in India. #pythonista #gopher # 
+# Hi 👋 I'm Aayush Borkar!
+I'm just another high school 🏫 student learning to code 💻 and I love 💘 open source. I mainly code in Python, Kotlin and C++ (for competitive coding). I'm currently busy with exams and hence, couldn't get much time to customize my profile
 
 ## Get in touch
 - Twitter: https://twitter.com/AbstractGhoul05
