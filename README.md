@@ -5,5 +5,5 @@ I'm just another high school 🏫 student learning to code 💻 and I love 💘 
 - Twitter: https://twitter.com/AbstractGhoul05
 - My website: https://abstractghoul05.github.io/
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=AbstractGhoul05)
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbstractGhoul05&layout=compact)
+![My Stats](https://github-readme-stats.vercel.app/api?username=aayushborkar1)
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushborkar1&layout=compact)
