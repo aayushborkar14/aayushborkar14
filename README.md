@@ -1,8 +1,7 @@
 # Hi 👋 I'm Aayush Borkar!
-I'm just another high school 🏫 student learning to code 💻 and I love 💘 open source. I mainly code in Python🐍, Kotlin, Dart🎯 and C++ (for competitive coding).
+I am a freshman learning to code 💻 and I love 💘 open source. I mainly code in Python🐍, Rust, Dart🎯 and C++ (for competitive coding).
 
 ## Get in touch
-- Twitter: https://twitter.com/AbstractGhoul05
 - My website: https://abstractghoul05.github.io/
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=aayushborkar14)
